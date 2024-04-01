@@ -1,2 +1,2 @@
-# Capstone_projects
-Tests
+# Capstone projects
+Bellabeat case study
